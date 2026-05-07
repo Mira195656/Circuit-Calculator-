@@ -23,7 +23,7 @@ The variable units are specified so that miscalculations are prevented, includin
 The code takes into account that the user may accidentally input 0 for the value of resistance in I = V/R. In such case, the user will be warned that the number they have entered is not an acceptable input and that numbers cannot be divided by 0.
 
 ## Screenshot
-![Circuit Calculator Screenshot](screenshot.png)
+![Circuit Calculator Screenshot](47c64b2f-dd02-41cc-a590-e5d676942aef.png)
 
 ## How to run the code
 - Open the project in a C compiler, such as Visual Studio
